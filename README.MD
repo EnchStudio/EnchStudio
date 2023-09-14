@@ -1,2 +1,2 @@
 [![Hello](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF+EnchStudio+%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E3%80%82;Hello%2C+this+is+EnchStudio's+profile.)](https://git.io/typing-svg)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnchStudio)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnchStudio&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
